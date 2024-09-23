@@ -47,4 +47,8 @@ Content-Length: 105
 
 https://github.com/Cognitive-systems-and-technologies/materials/assets/100981393/958dcf7e-fd5f-44c1-9138-4b7db7ad76fe
 
+В библиотеке [RoboAICore](https://github.com/Cognitive-systems-and-technologies/RoboAICore) достепен ряд сред для тестирования алгоритмов самообучения. Пример работы алгоритма обучения с подкреплением для задачи балансировки шеста на подвижной тележке:
+
+https://github.com/user-attachments/assets/41ddfad9-ce8c-4ea8-8336-7f4be66f4b2c
+
 
